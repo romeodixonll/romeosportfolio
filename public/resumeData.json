@@ -4,10 +4,10 @@
     "occupation": "Front End Developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "bio": "Hi there! I am Romeo! I'm Dynamic, results-driven Software Developer with over 2 years of exceptional expertise in website development and project management. Adept at responsive web design principles, cross-browser compatibility, user experience optimization, and various programming languages. A proven history of impeccable work ethic that adapts to a dynamic working environment, creates positive relationships, delivers productive results, and meets time-sensitive deadlines. Highly eager to invest in web development proficiencies in organizations seeking impactful transformations.",
     "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "email": "romeodixonll@yahoo.com",
+    "phone": "+1 254 681 9741",
     "address": {
       "street": "13355 US Highway 183",
       "city": "Austin",
@@ -15,31 +15,16 @@
       "zip": "78750"
     },
     "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://romeosresume.tiiny.site",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/romeodixonll/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/romeodixonll",
         "className": "fa fa-github"
       }
     ]
@@ -48,27 +33,31 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
+        "school": "ECPI University, Virginia Beach, VA",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "graduated": "July 2014",
+        "description": "GPA: 3.5/4.0"
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "BENEFITHUB",
+        "title": "Front-End UI and UX Engineer II",
+        "years": "May 2022 - April 2024",
+        "description": "Significantly improved application performance by using React and Redux to increase reusability and code quality. Thrived in an agile and high-paced environment to process design requirements, peer programs, and test applications. Maintained and debugged over 20-page applications by effectively collaborating with the UI/UX manager and team. Leveraged strong programming skills by refactoring legacy code to reusable code and libraries for future use. Developed an information-gathering wizard to optimize the addition of new departments in the app and increase user efficiency.."
       }
     ],
     "skills": [
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
       {
         "name": "ReactJs",
         "level": "100%"
       },
       {
-        "name": "Python",
+        "name": "Redux",
         "level": "85%"
       },
       {
@@ -76,34 +65,58 @@
         "level": "70%"
       },
       {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
         "name": "Web Development",
         "level": "95%"
+      },
+      {
+        "name": "CSS3",
+        "level": "95%"
+      },
+      {
+        "name": "HTML",
+        "level": "95%"
+      },
+      {
+        "name": "Node.js",
+        "level": "75%"
+      },
+      {
+        "name": "Express",
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Air bnb Clone",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "AirbnbClone.png",
+        "url": "https://airbnb-clone-webiste.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "Tesla Clone",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "TeslaClone.png",
+        "url": "https://tesla-clone-two-zeta.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Book Search App",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "bookSearch.png",
+        "url": "https://booksearch-alpha.vercel.app/"
+      },
+      {
+        "title": "Note Taker",
+        "category": "",
+        "image": "NoteTaker.png",
+        "url": "https://note-taker-frontend-xi.vercel.app/"
+      },
+      {
+        "title": "Mern Estate",
+        "category": "",
+        "image": "MernEstate.png",
+        "url": "https://real-estate-app-alpha-five.vercel.app/"
       }
     ]
   },
